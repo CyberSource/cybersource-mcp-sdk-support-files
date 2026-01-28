@@ -1,0 +1,30 @@
+{
+    "latest_version": "0.0.75",
+    "minimum_supported_version": "0.0.43",
+    "versions": [
+        {
+            "version": "0.0.75",
+            "release_date": "2026-01-05",
+            "tag_name": "0.0.75",
+            "download_url": "https://github.com/CyberSource/cybersource-rest-client-node/archive/refs/tags/0.0.75.zip"
+        },
+        {
+            "version": "0.0.74",
+            "release_date": "2025-12-01",
+            "tag_name": "0.0.74",
+            "download_url": "https://github.com/CyberSource/cybersource-rest-client-node/archive/refs/tags/0.0.74.zip"
+        },
+        {
+            "version": "0.0.73",
+            "release_date": "2025-11-07",
+            "tag_name": "0.0.73",
+            "download_url": "https://github.com/CyberSource/cybersource-rest-client-node/archive/refs/tags/0.0.73.zip"
+        }
+    ],
+    "repository": {
+        "owner": "CyberSource",
+        "repo": "cybersource-rest-client-node",
+        "url": "https://github.com/CyberSource/cybersource-rest-client-node"
+    },
+    "last_updated": "2026-01-07T20:00:00Z"
+}
