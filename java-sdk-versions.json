@@ -1,30 +1,30 @@
 {
-   "latest_version":"0.0.85",
-   "minimum_supported_version":"0.0.50",
-   "versions":[
-      {
-         "version":"0.0.85",
-         "release_date":"2026-01-05",
-         "tag_name":"cybersource-rest-client-java-0.0.85",
-         "download_url":"https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.85.zip"
-      },
-      {
-         "version":"0.0.84",
-         "release_date":"2025-12-01",
-         "tag_name":"cybersource-rest-client-java-0.0.84",
-         "download_url":"https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.84.zip"
-      },
-      {
-         "version":"0.0.83",
-         "release_date":"2025-11-07",
-         "tag_name":"cybersource-rest-client-java-0.0.83",
-         "download_url":"https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.83.zip"
-      }
-   ],
-   "repository":{
-      "owner":"CyberSource",
-      "repo":"cybersource-rest-client-java",
-      "url":"https://github.com/CyberSource/cybersource-rest-client-java"
-   },
-   "last_updated":"2026-01-07T20:00:00Z"
+  "latest_version": "0.0.86",
+  "minimum_supported_version": "0.0.50",
+  "versions": [
+    {
+      "version": "0.0.85",
+      "release_date": "2026-01-05",
+      "tag_name": "cybersource-rest-client-java-0.0.85",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.85.zip"
+    },
+    {
+      "version": "0.0.84",
+      "release_date": "2025-12-01",
+      "tag_name": "cybersource-rest-client-java-0.0.84",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.84.zip"
+    },
+    {
+      "version": "0.0.83",
+      "release_date": "2025-11-07",
+      "tag_name": "cybersource-rest-client-java-0.0.83",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-java/archive/refs/tags/cybersource-rest-client-java-0.0.83.zip"
+    }
+  ],
+  "repository": {
+    "owner": "CyberSource",
+    "repo": "cybersource-rest-client-java",
+    "url": "https://github.com/CyberSource/cybersource-rest-client-java"
+  },
+  "last_updated": "2026-02-11T16:42:59Z"
 }
