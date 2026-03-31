@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.74",
+  "latest_version": "0.0.75",
   "minimum_supported_version": "0.0.41",
   "versions": [
     {
@@ -26,5 +26,5 @@
     "repo": "cybersource-rest-client-python",
     "url": "https://github.com/CyberSource/cybersource-rest-client-python"
   },
-  "last_updated": "2026-02-11T16:42:59Z"
+  "last_updated": "2026-03-31T11:28:58Z"
 }
