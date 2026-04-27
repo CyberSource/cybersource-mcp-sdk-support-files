@@ -1,6 +1,6 @@
 {
   "latest_version": "0.0.72",
-  "minimum_supported_version": "0.0.36",
+  "minimum_supported_version": "0.0.20",
   "versions": [
     {
       "version": "0.0.36",
