@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.87",
+  "latest_version": "0.0.88",
   "minimum_supported_version": "0.0.20",
   "versions": [
     {
@@ -26,5 +26,5 @@
     "repo": "cybersource-rest-client-java",
     "url": "https://github.com/CyberSource/cybersource-rest-client-java"
   },
-  "last_updated": "2026-03-31T11:28:58Z"
+  "last_updated": "2026-05-07T15:56:53Z"
 }
