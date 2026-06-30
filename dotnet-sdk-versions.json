@@ -1,0 +1,30 @@
+{
+  "latest_version": "0.0.1.63",
+  "minimum_supported_version": "0.0.1.20",
+  "versions": [
+    {
+      "version": "0.0.1.63",
+      "release_date": "2026-05-16",
+      "tag_name": "0.0.1.63",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-dotnet/archive/refs/tags/0.0.1.63.zip"
+    },
+    {
+      "version": "0.0.1.62",
+      "release_date": "2026-03-31",
+      "tag_name": "0.0.1.62",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-dotnet/archive/refs/tags/0.0.1.62.zip"
+    },
+    {
+      "version": "0.0.1.61",
+      "release_date": "2026-02-11",
+      "tag_name": "0.0.1.61",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-dotnet/archive/refs/tags/0.0.1.61.zip"
+    }
+  ],
+  "repository": {
+    "owner": "CyberSource",
+    "repo": "cybersource-rest-client-dotnet",
+    "url": "https://github.com/CyberSource/cybersource-rest-client-dotnet"
+  },
+  "last_updated": "2026-06-29T00:00:00Z"
+}
