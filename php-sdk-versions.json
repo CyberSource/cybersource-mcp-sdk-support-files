@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.73",
+  "latest_version": "0.0.74",
   "minimum_supported_version": "0.0.20",
   "versions": [
     {
@@ -14,5 +14,5 @@
     "repo": "cybersource-rest-client-php",
     "url": "https://github.com/CyberSource/cybersource-rest-client-php"
   },
-  "last_updated": "2026-05-18T07:32:00Z"
+  "last_updated": "2026-07-02T05:58:48Z"
 }
