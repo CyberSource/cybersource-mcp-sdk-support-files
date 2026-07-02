@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.1.63",
+  "latest_version": "0.0.1.64",
   "minimum_supported_version": "0.0.1.20",
   "versions": [
     {
@@ -26,5 +26,5 @@
     "repo": "cybersource-rest-client-dotnet",
     "url": "https://github.com/CyberSource/cybersource-rest-client-dotnet"
   },
-  "last_updated": "2026-06-29T00:00:00Z"
+  "last_updated": "2026-07-02T05:58:48Z"
 }
