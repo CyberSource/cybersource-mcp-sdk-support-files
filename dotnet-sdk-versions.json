@@ -1,7 +1,13 @@
 {
-  "latest_version": "0.0.1.64",
+  "latest_version": "1.0.0",
   "minimum_supported_version": "0.0.1.20",
   "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2026-07-21",
+      "tag_name": "1.0.0",
+      "download_url": "https://github.com/CyberSource/cybersource-rest-client-dotnet/archive/refs/tags/1.0.0.zip"
+    },
     {
       "version": "0.0.1.63",
       "release_date": "2026-05-16",
