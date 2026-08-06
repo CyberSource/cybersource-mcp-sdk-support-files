@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.0.80",
+  "latest_version": "0.0.81",
   "minimum_supported_version": "0.0.20",
   "versions": [
     {
@@ -26,5 +26,5 @@
     "repo": "cybersource-rest-client-node",
     "url": "https://github.com/CyberSource/cybersource-rest-client-node"
   },
-  "last_updated": "2026-07-02T05:58:48Z"
+  "last_updated": "2026-08-06T10:02:20Z"
 }
